@@ -1,6 +1,6 @@
 # Resources for Participating in or Contributing to Open Edge Platform 
 
-Here's a list of resources for participating in or contributing to [Open Edge Platform](https://github.com/open-edge-platform), a set of open source solutions on GitHub that demonstrate the power, performance, and flexibility of Intel processors for edge AI. 
+Here's a list of resources for participating in or contributing to [Open Edge Platform](https://github.com/open-edge-platform), a set of open source solutions on GitHub that demonstrates the power, performance, and flexibility of Intel processors for edge AI. 
 
 ## Table of Contents
 
@@ -12,7 +12,7 @@ Here's a list of resources for participating in or contributing to [Open Edge Pl
 
 ## Open Edge Platform
 
-Open Edge Platform comprises [Edge Microvisor Toolkit](https://github.com/open-edge-platform/edge-microvisor-toolkit), [Edge Manageability Framework](https://github.com/open-edge-platform/edge-manageability-framework), [Edge AI Libraries](https://github.com/open-edge-platform/edge-ai-libraries), and [Edge AI Suites](https://github.com/open-edge-platform/edge-ai-suites). Vendors, developers, and technology partners can take part in the GitHub community for these solutions in various ways: contributing code, proposing a design, downloading and trying out releases, opening an issue, benchmarking application performance, and -- perhaps most important of all for building community -- participating in discussions. For more information on Open Edge Platform, check these resources: 
+Open Edge Platform comprises [Edge Microvisor Toolkit](https://github.com/open-edge-platform/edge-microvisor-toolkit), [Edge Manageability Framework](https://github.com/open-edge-platform/edge-manageability-framework), [Edge AI Libraries](https://github.com/open-edge-platform/edge-ai-libraries), and [Edge AI Suites](https://github.com/open-edge-platform/edge-ai-suites). Vendors, developers, and technology partners can take part in the GitHub community for these solutions in various ways: contributing code, proposing a design, downloading and trying out releases, opening an issue, benchmarking application performance, and -- perhaps most important of all for building community -- participating in discussions. For more information on Open Edge Platform, check out these resources: 
 
 - [Read and respond to blog posts](https://medium.com/open-edge-platform)
 - [Watch demo videos on YouTube](https://www.youtube.com/playlist?list=PLg-UKERBljNxIMUUPWHpA8ZJ_YUU5tPP9)
